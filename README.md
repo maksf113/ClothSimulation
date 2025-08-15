@@ -44,7 +44,7 @@ To build and run this project, you will need the following dependencies installe
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://your-repository-url/ClothSim.git
+    git clone https://github.com/maksf113/ClothSimulation.git
     cd ClothSim
     ```
 
