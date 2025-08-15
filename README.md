@@ -19,9 +19,9 @@ This project serves as a practical demonstration of integrating advanced physics
 
 Here are some examples of the cloth simulation in action:
 
-![](./screenshots/gif.GIF)
-![](./screenshots/1.PNG)
-![](./screenshots/2.PNG)
+![](./screenshots/gif.gif)
+![](./screenshots/1.png)
+![](./screenshots/2.png)
 
 ---
 
