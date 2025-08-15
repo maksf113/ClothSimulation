@@ -19,9 +19,9 @@ This project serves as a practical demonstration of integrating advanced physics
 
 Here are some examples of the cloth simulation in action:
 
-![](screenshots/gif.GIF)
-![](screenshots/1.PNG)
-![](screenshots/2.PNG)
+![](./screenshots/gif.GIF)
+![](./screenshots/1.PNG)
+![](./screenshots/2.PNG)
 
 ---
 
@@ -60,7 +60,7 @@ To build and run this project, you will need the following dependencies installe
     ```
 
 4.  **Build the project:**
-    On Linux or macOS:
+    On Linux
     ```bash
     make
     ```
